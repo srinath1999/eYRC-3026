@@ -5,5 +5,6 @@ Team members : Srinath, Harsh, Prateek, Himanshu
 
 Hello!
 The code will be uploaded as soon as the competition ends.
+The link to the video of the progress task is provided.
 
 We secured above 90% marks in all the tasks without penalty except in the progress task in which we secured 94 marks and -20 for one day late submission.
